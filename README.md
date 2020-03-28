@@ -4,6 +4,9 @@
 
  TO PLAY THE GAME
 
- DOWNLOAD game.html,game.css,gane.js files
+
+
+
+ DOWNLOAD game.html,game.css,gane.js files\n
  PUT ALL THREE FILES IN A FOLDER 
  RUN game.html using your web browser
