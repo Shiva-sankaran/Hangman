@@ -1,0 +1,20 @@
+body{
+	background-color:#ffffb3;
+}
+
+h1{
+	text-align: center;
+	color:blue;
+	font-size:300%;
+}
+h2{
+	text-align: center;
+	color: red
+}
+.charbox{
+	width: 10px;
+}
+
+#gameBox{
+	text-align: center;
+}
